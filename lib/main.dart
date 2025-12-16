@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:studdybuddy/auth/model/splash_screen.dart';
+import 'package:studdybuddy/auth/view/splash_screen.dart';
 
 void main() {
   runApp(const SlideBuddy());
